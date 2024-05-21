@@ -58,7 +58,7 @@ h3 {
     font-weight: 500;
     
 }
-/* HI ayush */
+
 .header .navbar .nav-items {
     float: right;
     margin-top: 1rem;
@@ -310,3 +310,23 @@ body .showcase .container .row .text-box a{
 .box-wrapper{
     box-shadow: 5px 5px 10px 0px rgba(102, 102, 102, 0.521);
 }
+
+/* ################### footer ####################### */
+
+.end1{
+    border: 2px solid green;
+    padding: 5rem;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+    background-color: #555;
+    color: white;
+}
+.end1 .logo1{
+    text-align: center;
+    margin-bottom: 0.9rem;
+    word-spacing: 2.6rem;
+}
+.end1 p{
+    text-align: center;
+}
+
